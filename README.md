@@ -46,11 +46,13 @@
 -   🔗 [**Plant-Disease-Detection**](https://github.com/Rpokhariya/Plant-Disease-Detection)
     -   An algorithm to detect different kinds of diseases in plant leaves using machine learning.
 
+-   🔗 [**ELI5**](https://github.com/Rpokhariya/ELI5)
+    -   Explain me like I'm 5 (Browser Extension) 
+
 -   🔗 [**KaamKhojo**](https://github.com/Rpokhariya/KaamKhojo)
     -   A simplified, bilingual job portal for quick and accessible job connections.
 
--   🔗 [**Sales-Analytics**](https://github.com/Rpokhariya/Sales-Analytics)
-    -   An interactive Sales Analytics Dashboard built using Power BI.
+
 
 ---
 
